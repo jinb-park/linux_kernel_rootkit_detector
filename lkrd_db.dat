@@ -1,0 +1,11 @@
+__kmalloc __put_user_1 __put_user_2 __put_user_8 __register_chrdev __stack_chk_fail __tracepoint_module_get __unregister_chrdev _cond_resched _copy_from_user _copy_to_user _ctype call_usermodehelper_exec call_usermodehelper_setfn call_usermodehelper_setup commit_creds create_proc_entry current_task fget filp_close filp_open fput init_net jiffies jiffies_to_clock_t kernel_stack kfree kmalloc_caches kmem_cache_alloc_trace kobject_add kobject_del lookup_address mcount memcpy memmove nf_register_hook nf_unregister_hook param_ops_charp param_ops_ulong prepare_creds printk register_keyboard_notifie remove_proc_entry seq_printf snprintf sock_i_ino sock_i_uid sprintf strcmp strlen strncmp strncpy strstr unregister_keyboard_notif vfs_readdir
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 1 0 0 1 0 0 0 0 1 1 0 0 1 0 0 0 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1
+0 0 0 0 1 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 0 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 1 0 0 1 0 0 0 0 1 1 1 1 1 0 0 0 1
+1 1 1 1 0 1 1 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 0 1 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+1 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 1 1 1 0 1 1 1 1 0 0 0 1 1 1 0 0 0 0 1 1 0 1 1 1 0 0 1 1 1 0 1 0 0 1 0
+0 0 0 0 0 1 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
